@@ -19,7 +19,7 @@
 [submodule "audiere"]
 	path = ext/audiere
 	url = https://github.com/nabijaczleweli/audiere.git
-	branch = v1.9.4
+	branch = start
 [submodule "cpp-localiser"]
 	path = ext/cpp-localiser
 	url = https://github.com/nabijaczleweli/cpp-localiser.git
